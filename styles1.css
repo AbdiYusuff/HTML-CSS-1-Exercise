@@ -1,0 +1,22 @@
+h1,
+p {
+    text-align: center;
+}
+
+p {
+    margin: 20px 200px;
+}
+
+h1 {
+    background-color: teal;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+div {
+    padding: 10px 15px;
+    border: none;
+    background-color: coral;
+    color: white;
+    border-radius: 20px;
+}
